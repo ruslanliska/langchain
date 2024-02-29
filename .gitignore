@@ -120,7 +120,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+ice_breaker/.env
 .venv
 env/
 venv/
